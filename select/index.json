@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あいきるゆぅ",
+  "base_artist": "syudou",
+  "createdAt": "2026-02-12T11:57:02.736427Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいきるゆぅ",
+      "artist": "syudou",
+      "has_synced": false,
+      "path": "select/pl_01_あいきるゆぅ_syudou.txt"
+    }
+  ]
+}
